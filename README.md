@@ -1,4 +1,4 @@
-# 📊 Real Estate Data Pipeline Project with AWS, Snowflake, and Power BI 📈
+# 📊 Redfin Real Estate Data Pipeline Project with AWS EC2, S3, Airflow, Snowflake, and Power BI 📈
 
 
 ![AWS Badge](https://img.shields.io/badge/Service-AWS-FF9900)
